@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput-hemant/rajput-hemant/main/header_.gif" width="100%" />
+
 </p>
 
 # Hi, I'm Prasad  
@@ -99,10 +99,7 @@ LSTM and GRU achieved the best MAE performance among multiple deep learning mode
 
 # GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A4xPraddy&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A4xPraddy&theme=dark&hide_border=true&layout=compact" height="150" />
-</p>
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=A4xPraddy&theme=dark&hide_border=true" height="150" />
